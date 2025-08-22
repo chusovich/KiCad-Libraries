@@ -1399,7 +1399,7 @@
 		(thermal_bridge_angle 0)
 		(uuid "2b98bdf4-e66e-433e-ab4e-0f57f938d0f9")
 	)
-	(pad "GND1" thru_hole circle
+	(pad "GND" thru_hole circle
 		(at 1.9 -21)
 		(size 0.708 0.708)
 		(drill 0.2)
